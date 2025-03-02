@@ -7,7 +7,7 @@
 <p>Surprisingly she was 25 lbs lighter.</p>
 <div class="testimonial">
 <p><strong>How did you do that Jen?</strong> I asked.</p>
-<p><strong>Purple Peel Exploit for Weight Loss,</strong> she replied.</p>
+<p><a href="https://heradvise.com/purplepeelexploit"><strong>Purple Peel Exploit for Weight Loss,</strong></a> she replied.</p>
 <p><strong>What?</strong></p>
 <p><strong>What the heck is that?</strong></p>
 <p><strong>Exploit?</strong></p>
@@ -24,7 +24,7 @@
 <p>I asked her to share pictures of her before and after to write this story.</p>
 <p>I am attaching her pictures below with her permission:</p>
   
-  <a href="https://heradvise.com/purplepeelexploit">![Before and After Weight Loss](https://github.com/user-attachments/assets/254a88e9-ee4a-47a4-a774-6b7524655d87)</a>
+<a href="https://heradvise.com/purplepeelexploit">![Before and After Weight Loss](https://github.com/user-attachments/assets/254a88e9-ee4a-47a4-a774-6b7524655d87)</a>
 
 <p>Look at Jen, 25 lbs down. You can see more inspiring transformations on the <a href="https://heradvise.com/purplepeelexploit">official Purple Peel website</a>.</p>
 <p>Out of curiosity, I asked Jen...</p>
@@ -71,7 +71,7 @@
 <p>She shared the <a href="https://heradvise.com/purplepeelexploit">official website of Mitolyn</a>.</p>
 <p>There she saw this video about the Purple Peel Exploit, watched the full video, and decided to buy Mitolyn.</p>
 
-![Mitolyn Bought This Got This](https://github.com/user-attachments/assets/56e37c07-b63a-4a66-ac6c-90759badcc85)
+<a href="https://heradvise.com/purplepeelexploit">![Mitolyn Bought This Got This](https://github.com/user-attachments/assets/56e37c07-b63a-4a66-ac6c-90759badcc85)</a>
 
 
 <p>I watched the whole video and found it explains exactly how Mitolyn works.</p>
