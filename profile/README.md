@@ -24,7 +24,7 @@
 <p>I asked her to share pictures of her before and after to write this story.</p>
 <p>I am attaching her pictures below with her permission:</p>
   
-  ![Before and After Weight Loss](https://github.com/user-attachments/assets/254a88e9-ee4a-47a4-a774-6b7524655d87)
+  <a href="https://heradvise.com/purplepeelexploit">![Before and After Weight Loss](https://github.com/user-attachments/assets/254a88e9-ee4a-47a4-a774-6b7524655d87)</a>
 
 <p>Look at Jen, 25 lbs down. You can see more inspiring transformations on the <a href="https://heradvise.com/purplepeelexploit">official Purple Peel website</a>.</p>
 <p>Out of curiosity, I asked Jen...</p>
