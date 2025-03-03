@@ -2,6 +2,7 @@
 <html lang="en">
 <body>
 <h1>Purple Peel Exploit Weight Loss Gets Tried by My Friend</h1>
+  
 <p>Yesterday, my old friend Jen came to meet me.</p>
 <p>I was surprised, she was visibly lean when I met her 3 months ago.</p>
 <p>Surprisingly she was 25 lbs lighter.</p>
@@ -20,6 +21,9 @@
 <div class="testimonial">
 <p><strong>No, Lam, my results prove it works.</strong></p>
 </div>
+
+<a href="https://heradvise.com/purplepeelexploit">![481336771_1260519795014484_3900125402498390957_n](https://github.com/user-attachments/assets/2284a057-15d4-4a2d-9a40-9dc3895faf15)</a>
+
 <p>I have to agree on that, I said.</p>
 <p>I asked her to share pictures of her before and after to write this story.</p>
 <p>I am attaching her pictures below with her permission:</p>
